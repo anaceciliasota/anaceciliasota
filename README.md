@@ -1,5 +1,3 @@
-### Hi there 👋
-
 **ANA CECILIA SOTA**
 ------
 ---
@@ -33,5 +31,19 @@ Vivo en Brasil, Rio Grande do Norte y tengo disponibilidad de traslado ==dentro=
 | Digitalizacion de datos de  Clientes |    6 Meses | 
 | Triplicar  ventas reales E-commerce  |    1 Mes | 
 | Gestion integral de ventas canales digitales |    7 Meses | 
+
+# 5 comandos que me cambiaron la vida
+| Escribo | Se ejecuta:| 
+|----------|------------------------------| 
+| ls | listado de mis carpetas | 
+| cd  | cambio de ubicacion | 
+| pwd | veo mi ubicacion actual | 
+|mkdir | creo una carpeta |
+| date | veo la fecha actual por si tengo repentinamente un ACV |
+
+# 2 alias para gente vaga
+tan vaga que no tiene alias todavia , asunto para investigar 🤯
+
+| 
 
 
